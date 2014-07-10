@@ -39,4 +39,4 @@ gem 'pry-rails'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem "simple_d3", :path => "/Users/a1673450/dev/simple_d3"
+gem "simple_d3", :path => "~/dev/simple_d3"
